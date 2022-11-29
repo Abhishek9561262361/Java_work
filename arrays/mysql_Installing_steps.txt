@@ -1,0 +1,14 @@
+1. searchfor mySql download
+2. click on https://www.mysql.com/downloads/
+3. scroll down and click on 'MySQL Community (GPL) Downloads »'
+4. in 'mysql community select mysql instler for windows 
+5. download '(mysql-installer-communit8.0.30.0.msi)
+6. open the dowloder installer
+7. in 'Choosing a setup type' select 'developer default'
+8. In 'check reuirment' click on execute or next
+9. if 'path conflict'shows any warning, delete the folder that exists in the path
+10. In 'product configuration click on next
+11. In authentication method click on next 
+12. in accounts and roles, type the password as 'root' and click on next
+13. in windows service click on next
+14. In apply configuration click on 'execute'

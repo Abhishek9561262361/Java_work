@@ -1,0 +1,16 @@
+que 1 : write a java program to book movie tickets, with the help of singleton design pattern.
+ note : create movie class as a singleton class and acess the object from different class 'Moviemain'
+write a logic for both , eagar and lazy instantiation 
+create classes/interface as required.
+display appropriate massage whenever required.
+
+que2: write a java program to order snacks in a restaurant , with the help of factory design patterns.
+note: create classes pizza, sandwich,burger,fries,momo and create the object at runtime as requested in the class restaurant.
+creaate class/interface as required ,
+display appropriate massage whenever required
+
+que3: write a java program to create an object of a car class, with the help of builder design pattern
+note: create car class and carbuilder class.
+create the object of car using carbuilder in carMain class.
+create classes interfaces as required.
+display appropriate massage whenever required.
